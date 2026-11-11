@@ -1,0 +1,8 @@
+{
+    "version":  "1.02",
+    "released_at":  "2026-11-11T18:04:01+09:00",
+    "download_url":  "https://raw.githubusercontent.com/nagaokasangyou/Production-Control-System/main/updates/pmd-user-monitor/PmdUserMonitor_upgrade.zip",
+    "sha256":  "F3C27D9DAA35213E2689E3AF19DFCB381023E6B351879A3AF5D22EA9525507E2",
+    "size":  88952,
+    "notes":  "PmdUserMonitor v1.02 differential update (pure Python modules + icon; excludes runtime/EXE)."
+}
