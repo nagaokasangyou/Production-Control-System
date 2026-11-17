@@ -1,0 +1,7 @@
+{
+    "version":  "19.08",
+    "released_at":  "2026-11-20T07:53:23+09:00",
+    "download_url":  "https://raw.githubusercontent.com/nagaokasangyou/Production-Control-System/main/updates/archive/v19.08/PMD_version_upgrade.zip",
+    "sha256":  "AEB7A9AE4C9480C45398694DE52487C2A10ED1641CCBD7AB650F8A938DD9D6B0",
+    "notes":  "Version 19.08 archived differential update (excludes main body runtime/launcher)."
+}

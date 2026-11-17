@@ -1,0 +1,53 @@
+{
+    "current_version":  "19.10",
+    "is_rollback":  false,
+    "rolled_back_from":  null,
+    "updated_at":  "2026-11-20T11:07:10+09:00",
+    "max_previous_generations":  3,
+    "available_versions":  [
+                               {
+                                   "version":  "19.10",
+                                   "is_active":  true,
+                                   "released_at":  "2026-11-20T11:07:10+09:00",
+                                   "zip_sha256":  "F14BCC6A97CE088F39DCAD0CCE1FF252D2CA60FEA8AA95B3A0488C8F95CECF87",
+                                   "zip_size":  33928687,
+                                   "desktopJarFileName":  "production-control-desktop-0.1.0-SNAPSHOT.jar",
+                                   "desktopJarSize":  7373447,
+                                   "desktopJarSha256":  "874B9408A7E8B4143FA6DCDC0BF2230457B00EAC17CD6423D376E0F9ABC79AD7",
+                                   "archive_rel_path":  "updates/archive/v19.10"
+                               },
+                               {
+                                   "version":  "19.08",
+                                   "is_active":  false,
+                                   "released_at":  "2026-11-20T07:53:23+09:00",
+                                   "zip_sha256":  "AEB7A9AE4C9480C45398694DE52487C2A10ED1641CCBD7AB650F8A938DD9D6B0",
+                                   "zip_size":  33928614,
+                                   "desktopJarFileName":  "production-control-desktop-0.1.0-SNAPSHOT.jar",
+                                   "desktopJarSize":  7373353,
+                                   "desktopJarSha256":  "FF036D7BE18E28A98128FBB420B255FBA966CCEA5A3819BA9885FAF9C1F4D2DF",
+                                   "archive_rel_path":  "updates/archive/v19.08"
+                               },
+                               {
+                                   "version":  "19.07",
+                                   "is_active":  false,
+                                   "released_at":  "2026-11-18T09:32:57+09:00",
+                                   "zip_sha256":  "C5615864314F05B032FBCA7E7BDCA0ABB5505D7BC485C8153F89E90D8460BA39",
+                                   "zip_size":  33908090,
+                                   "desktopJarFileName":  "production-control-desktop-0.1.0-SNAPSHOT.jar",
+                                   "desktopJarSize":  7352115,
+                                   "desktopJarSha256":  "17D8F2330B65EED3A380049C03945084C3C71FF57ECB5192BB32B91CC996B6B0",
+                                   "archive_rel_path":  "updates/archive/v19.07"
+                               },
+                               {
+                                   "version":  "19.04",
+                                   "is_active":  false,
+                                   "released_at":  "2026-11-17T08:07:34+09:00",
+                                   "zip_sha256":  "56F78E6ABB254367424C9E4FCBCDB74D22A83F8DC23B3EEC72B4313A33D974ED",
+                                   "zip_size":  33893918,
+                                   "desktopJarFileName":  "production-control-desktop-0.1.0-SNAPSHOT.jar",
+                                   "desktopJarSize":  7346471,
+                                   "desktopJarSha256":  "5881CBD26AC4ECEEA6C694084FE8F0D3A05F6814234BB4FF133511E162429F6D",
+                                   "archive_rel_path":  "updates/archive/v19.04"
+                               }
+                           ]
+}
